@@ -2,9 +2,6 @@
 
 ## Q004 (ID 0)
 
-* **Enabled:** True
-* **Type:** MULTIPLECHOICE
-* **Variation:** 22
 * **Learning-goal level:** 1.1
 
 ### Locale `nl`
@@ -33,9 +30,6 @@ _Feedback:_ y = ax + b is correct
 
 ## Q007 (ID 0)
 
-* **Enabled:** True
-* **Type:** MULTIPLECHOICE
-* **Variation:** 5
 * **Learning-goal level:** 1.1
 
 ### Locale `nl`
@@ -66,9 +60,6 @@ _Feedback:_ Value 16 is correct. The rate of change is constante and equal to 3 
 
 ## Q041 (ID 0)
 
-* **Enabled:** True
-* **Type:** MULTIPLECHOICE
-* **Variation:** 5
 * **Learning-goal level:** 1.1
 
 ### Locale `nl`
@@ -99,9 +90,6 @@ _Feedback:_ Value 3 is correct. The rate of change is constante and equal to 2 (
 
 ## Q052 (ID 0)
 
-* **Enabled:** True
-* **Type:** MULTIPLECHOICE
-* **Variation:** 22
 * **Learning-goal level:** 1.1
 
 ### Locale `nl`
@@ -132,9 +120,6 @@ _Feedback:_ Table D is correct because the rate of change is constante (differen
 
 ## Q054 (ID 0)
 
-* **Enabled:** True
-* **Type:** MULTIPLECHOICE
-* **Variation:** 24
 * **Learning-goal level:** 1.1
 
 ### Locale `nl`
@@ -165,9 +150,6 @@ _Feedback:_ It must be 8. The constante rate of change is 2 (you add always 2 do
 
 ## Q055 (ID 0)
 
-* **Enabled:** True
-* **Type:** MULTIPLECHOICE
-* **Variation:** 24
 * **Learning-goal level:** 1.1
 
 ### Locale `nl`
@@ -198,9 +180,6 @@ _Feedback:_ The answer is 171. The constant rate of change is 2 and the y-interc
 
 ## Q056 (ID 0)
 
-* **Enabled:** True
-* **Type:** MULTIPLECHOICE
-* **Variation:** 24
 * **Learning-goal level:** 1.1
 
 ### Locale `nl`
@@ -231,9 +210,6 @@ _Feedback:_ It must be 5. The constante rate of change is 4 (you add always 4 do
 
 ## Q057 (ID 0)
 
-* **Enabled:** True
-* **Type:** MULTIPLECHOICE
-* **Variation:** 24
 * **Learning-goal level:** 1.1
 
 ### Locale `nl`
@@ -264,9 +240,6 @@ _Feedback:_ The answer is 101. The constant rate of change is 4 and the y-interc
 
 ## Q065 (ID 0)
 
-* **Enabled:** True
-* **Type:** MULTIPLECHOICE
-* **Variation:** 25
 * **Learning-goal level:** 1.2
 
 ### Locale `nl`
@@ -297,9 +270,6 @@ _Feedback:_ a is correct because the line crosses the y-axis by 4
 
 ## Q066 (ID 0)
 
-* **Enabled:** True
-* **Type:** MULTIPLECHOICE
-* **Variation:** 25
 * **Learning-goal level:** 1.2
 
 ### Locale `nl`
@@ -330,9 +300,6 @@ _Feedback:_ b is correct because the line crosses the x-axis by zero and the y-a
 
 ## Q067 (ID 0)
 
-* **Enabled:** True
-* **Type:** MULTIPLECHOICE
-* **Variation:** 26
 * **Learning-goal level:** 1.2
 
 ### Locale `nl`
@@ -363,9 +330,6 @@ _Feedback:_ a is correct because if the x-value is zero the y-value is 4 (y-inte
 
 ## Q068 (ID 0)
 
-* **Enabled:** True
-* **Type:** MULTIPLECHOICE
-* **Variation:** 26
 * **Learning-goal level:** 1.2
 
 ### Locale `nl`
@@ -396,9 +360,6 @@ _Feedback:_ b is correct because if the x-value is zero the y-value is - 4
 
 ## Q069 (ID 0)
 
-* **Enabled:** True
-* **Type:** MULTIPLECHOICE
-* **Variation:** 33
 * **Learning-goal level:** 1.2
 
 ### Locale `nl`
@@ -429,9 +390,6 @@ _Feedback:_ table C is correct because for x=0 the y-value is 4
 
 ## Q070 (ID 0)
 
-* **Enabled:** True
-* **Type:** MULTIPLECHOICE
-* **Variation:** 33
 * **Learning-goal level:** 1.2
 
 ### Locale `nl`
@@ -462,9 +420,6 @@ _Feedback:_ d is correct because for x=0 the y-value is -4
 
 ## Q071 (ID 0)
 
-* **Enabled:** True
-* **Type:** MULTIPLECHOICE
-* **Variation:** 26
 * **Learning-goal level:** 1.2
 
 ### Locale `nl`
@@ -495,9 +450,6 @@ _Feedback:_ option a is correct because 4 is higher than -4; -2 and 2 (which are
 
 ## Q005 (ID 0)
 
-* **Enabled:** True
-* **Type:** MULTIPLECHOICE
-* **Variation:** 4
 * **Learning-goal level:** 1.3
 
 ### Locale `nl`
@@ -526,9 +478,6 @@ _Feedback:_ y = 4x + 3 is correct because the sign of the slope (number before t
 
 ## Q006 (ID 0)
 
-* **Enabled:** True
-* **Type:** MULTIPLECHOICE
-* **Variation:** 4
 * **Learning-goal level:** 1.3
 
 ### Locale `nl`
@@ -557,9 +506,6 @@ _Feedback:_ y = -9x + 1 is correct because the sign of the slope (number before 
 
 ## Q053 (ID 0)
 
-* **Enabled:** True
-* **Type:** MULTIPLECHOICE
-* **Variation:** 23
 * **Learning-goal level:** 1.3
 
 ### Locale `nl`
@@ -590,9 +536,6 @@ _Feedback:_ graph (c) is correct because the sign of slope is negative (decreasi
 
 ## Q018 (ID 0)
 
-* **Enabled:** True
-* **Type:** MULTIPLECHOICE
-* **Variation:** 12
 * **Learning-goal level:** 1.4
 
 ### Locale `nl`
@@ -623,9 +566,6 @@ _Feedback:_ equal to 1 is correct. The slope is equal to the diference between t
 
 ## Q058 (ID 0)
 
-* **Enabled:** True
-* **Type:** MULTIPLECHOICE
-* **Variation:** 27
 * **Learning-goal level:** 1.4
 
 ### Locale `nl`
@@ -656,9 +596,6 @@ _Feedback:_ 2 is the correct answer because the difference between the y-values 
 
 ## Q059 (ID 0)
 
-* **Enabled:** True
-* **Type:** MULTIPLECHOICE
-* **Variation:** 27
 * **Learning-goal level:** 1.4
 
 ### Locale `nl`
@@ -689,9 +626,6 @@ _Feedback:_ the correct answer is -0.5 because the difference between the y-valu
 
 ## Q060 (ID 0)
 
-* **Enabled:** True
-* **Type:** MULTIPLECHOICE
-* **Variation:** 27
 * **Learning-goal level:** 1.4
 
 ### Locale `nl`
@@ -722,9 +656,6 @@ _Feedback:_ the correct answer is -1 because the difference between the y-values
 
 ## Q061 (ID 0)
 
-* **Enabled:** True
-* **Type:** MULTIPLECHOICE
-* **Variation:** 27
 * **Learning-goal level:** 1.4
 
 ### Locale `nl`
@@ -755,9 +686,6 @@ _Feedback:_ 0 is the correct answer because the line is horozontal
 
 ## Q062 (ID 0)
 
-* **Enabled:** True
-* **Type:** MULTIPLECHOICE
-* **Variation:** 27
 * **Learning-goal level:** 1.4
 
 ### Locale `nl`
@@ -788,9 +716,6 @@ _Feedback:_ 1.5 is the correct answer because the difference between the y-value
 
 ## Q063 (ID 0)
 
-* **Enabled:** True
-* **Type:** MULTIPLECHOICE
-* **Variation:** 27
 * **Learning-goal level:** 1.4
 
 ### Locale `nl`
@@ -821,9 +746,6 @@ _Feedback:_ 1/3 is the correct answer because the difference between the y-value
 
 ## Q072 (ID 0)
 
-* **Enabled:** True
-* **Type:** MULTIPLECHOICE
-* **Variation:** 
 * **Learning-goal level:** 2.1
 
 ### Locale `nl`
@@ -854,9 +776,6 @@ _Feedback:_ b is correct because the line has positive slope and the y-intercept
 
 ## Q073 (ID 0)
 
-* **Enabled:** True
-* **Type:** MULTIPLECHOICE
-* **Variation:** 
 * **Learning-goal level:** 2.1
 
 ### Locale `nl`
@@ -887,9 +806,6 @@ _Feedback:_ table d is correct
 
 ## Q074 (ID 0)
 
-* **Enabled:** True
-* **Type:** MULTIPLECHOICE
-* **Variation:** 34
 * **Learning-goal level:** 2.2
 
 ### Locale `nl`
@@ -920,9 +836,6 @@ _Feedback:_ d is correct because for each step in the positive x-direction the y
 
 ## Q075 (ID 0)
 
-* **Enabled:** True
-* **Type:** MULTIPLECHOICE
-* **Variation:** 34
 * **Learning-goal level:** 2.2
 
 ### Locale `nl`
@@ -953,9 +866,6 @@ _Feedback:_ b is correct because it is the only line with both positive slope an
 
 ## Q076 (ID 0)
 
-* **Enabled:** True
-* **Type:** MULTIPLECHOICE
-* **Variation:** 
 * **Learning-goal level:** 2.2
 
 ### Locale `nl`
@@ -986,9 +896,6 @@ _Feedback:_ None of the students is right is the correct answer because: the y-i
 
 ## Q010 (ID 0)
 
-* **Enabled:** True
-* **Type:** MULTIPLECHOICE
-* **Variation:** 8
 * **Learning-goal level:** 2.3
 
 ### Locale `nl`
@@ -1019,9 +926,6 @@ _Feedback:_ y=6x is correct. The rate of change is constante and equal to 6 (dif
 
 ## Q079 (ID 0)
 
-* **Enabled:** True
-* **Type:** MULTIPLECHOICE
-* **Variation:** 
 * **Learning-goal level:** 2.3
 
 ### Locale `nl`
@@ -1052,9 +956,6 @@ _Feedback:_ Table D is correct. There are several ways to find the answer. For i
 
 ## Q013 (ID 0)
 
-* **Enabled:** True
-* **Type:** MULTIPLECHOICE
-* **Variation:** 10
 * **Learning-goal level:** 2.4
 
 ### Locale `nl`
@@ -1085,9 +986,6 @@ _Feedback:_ y=-0.75x-4 is correct because y-intercept is -4 and the slope is -0.
 
 ## Q014 (ID 0)
 
-* **Enabled:** True
-* **Type:** MULTIPLECHOICE
-* **Variation:** 10
 * **Learning-goal level:** 2.4
 
 ### Locale `nl`
@@ -1118,9 +1016,6 @@ _Feedback:_ Line C is correct because the y-intercept is 2 and the slope is -0.7
 
 ## Q077 (ID 0)
 
-* **Enabled:** True
-* **Type:** MULTIPLECHOICE
-* **Variation:** 
 * **Learning-goal level:** 2.5
 
 ### Locale `nl`
@@ -1151,9 +1046,6 @@ _Feedback:_ Table D is correct because if x=0 in Table D than is y=-4
 
 ## Q078 (ID 0)
 
-* **Enabled:** True
-* **Type:** MULTIPLECHOICE
-* **Variation:** 
 * **Learning-goal level:** 2.5
 
 ### Locale `nl`
@@ -1184,9 +1076,6 @@ _Feedback:_ Marloes is right because  the difference between the y-values (for e
 
 ## Q017 (ID 0)
 
-* **Enabled:** True
-* **Type:** MULTIPLECHOICE
-* **Variation:** 11
 * **Learning-goal level:** 2.6
 
 ### Locale `nl`
@@ -1215,9 +1104,6 @@ _Feedback:_ It is the same because both formulas have 'a' as slope.
 
 ## Q064 (ID 0)
 
-* **Enabled:** True
-* **Type:** MULTIPLECHOICE
-* **Variation:** 28
 * **Learning-goal level:** 2.6
 
 ### Locale `nl`
@@ -1246,9 +1132,6 @@ _Feedback:_ The correct option is from Julia
 
 ## Q026 (ID 0)
 
-* **Enabled:** True
-* **Type:** MULTIPLECHOICE
-* **Variation:** 30
 * **Learning-goal level:** 2.7
 
 ### Locale `nl`
@@ -1279,9 +1162,6 @@ _Feedback:_ Function 1 is correct because the slope has the highest magnitude (o
 
 ## Q027 (ID 0)
 
-* **Enabled:** True
-* **Type:** MULTIPLECHOICE
-* **Variation:** 31
 * **Learning-goal level:** 2.7
 
 ### Locale `nl`
@@ -1312,9 +1192,6 @@ _Feedback:_ functions 2; 3 and 4 is the correct option
 
 ## Q028 (ID 0)
 
-* **Enabled:** True
-* **Type:** MULTIPLECHOICE
-* **Variation:** 18
 * **Learning-goal level:** 2.7
 
 ### Locale `nl`
@@ -1345,9 +1222,6 @@ _Feedback:_ Function 3 is correct
 
 ## Q029 (ID 0)
 
-* **Enabled:** True
-* **Type:** MULTIPLECHOICE
-* **Variation:** 30
 * **Learning-goal level:** 2.7
 
 ### Locale `nl`
@@ -1378,9 +1252,6 @@ _Feedback:_ Function 1 is correct because the slope has the highest magnitude (o
 
 ## Q030 (ID 0)
 
-* **Enabled:** True
-* **Type:** MULTIPLECHOICE
-* **Variation:** 31
 * **Learning-goal level:** 2.7
 
 ### Locale `nl`
@@ -1411,9 +1282,6 @@ _Feedback:_ Functions 1, 2 and 4 is the correct option
 
 ## Q031 (ID 0)
 
-* **Enabled:** True
-* **Type:** MULTIPLECHOICE
-* **Variation:** 18
 * **Learning-goal level:** 2.7
 
 ### Locale `nl`
@@ -1444,9 +1312,6 @@ _Feedback:_ Function 3 is correct
 
 ## Q032 (ID 0)
 
-* **Enabled:** True
-* **Type:** MULTIPLECHOICE
-* **Variation:** 30
 * **Learning-goal level:** 2.7
 
 ### Locale `nl`
@@ -1477,9 +1342,6 @@ _Feedback:_ Function 2 is correct because the slope has the highest magnitude (o
 
 ## Q033 (ID 0)
 
-* **Enabled:** True
-* **Type:** MULTIPLECHOICE
-* **Variation:** 31
 * **Learning-goal level:** 2.7
 
 ### Locale `nl`
@@ -1510,9 +1372,6 @@ _Feedback:_ Functions 1, 2 and 4 is the correct option
 
 ## Q034 (ID 0)
 
-* **Enabled:** True
-* **Type:** MULTIPLECHOICE
-* **Variation:** 18
 * **Learning-goal level:** 2.7
 
 ### Locale `nl`
@@ -1543,9 +1402,6 @@ _Feedback:_ Function 3 is correct
 
 ## Q035 (ID 0)
 
-* **Enabled:** True
-* **Type:** MULTIPLECHOICE
-* **Variation:** 30
 * **Learning-goal level:** 2.7
 
 ### Locale `nl`
@@ -1576,9 +1432,6 @@ _Feedback:_ Function 2 is correct because the slope has the highest magnitude (o
 
 ## Q036 (ID 0)
 
-* **Enabled:** True
-* **Type:** MULTIPLECHOICE
-* **Variation:** 31
 * **Learning-goal level:** 2.7
 
 ### Locale `nl`
@@ -1609,9 +1462,6 @@ _Feedback:_ Functions 2, 3 and 4 is the correct option
 
 ## Q037 (ID 0)
 
-* **Enabled:** True
-* **Type:** MULTIPLECHOICE
-* **Variation:** 18
 * **Learning-goal level:** 2.7
 
 ### Locale `nl`
@@ -1642,9 +1492,6 @@ _Feedback:_ Function 3 is correct
 
 ## Q038 (ID 0)
 
-* **Enabled:** True
-* **Type:** MULTIPLECHOICE
-* **Variation:** 30
 * **Learning-goal level:** 2.7
 
 ### Locale `nl`
@@ -1675,9 +1522,6 @@ _Feedback:_ Function 4 is correct because the slope has the highest magnitude (o
 
 ## Q039 (ID 0)
 
-* **Enabled:** True
-* **Type:** MULTIPLECHOICE
-* **Variation:** 31
 * **Learning-goal level:** 2.7
 
 ### Locale `nl`
@@ -1708,9 +1552,6 @@ _Feedback:_ Functions 1, 3 and 4 is the correct option
 
 ## Q040 (ID 0)
 
-* **Enabled:** True
-* **Type:** MULTIPLECHOICE
-* **Variation:** 18
 * **Learning-goal level:** 2.8
 
 ### Locale `nl`
@@ -1741,9 +1582,6 @@ _Feedback:_ Function 2 is correct
 
 ## Q021 (ID 0)
 
-* **Enabled:** True
-* **Type:** MULTIPLECHOICE
-* **Variation:** 15
 * **Learning-goal level:** 3.1
 
 ### Locale `nl`
@@ -1774,9 +1612,6 @@ _Feedback:_ y= -3x-2 is correct because its slope is equal (slope is -3)
 
 ## Q022 (ID 0)
 
-* **Enabled:** True
-* **Type:** MULTIPLECHOICE
-* **Variation:** 15
 * **Learning-goal level:** 3.1
 
 ### Locale `nl`
@@ -1807,9 +1642,6 @@ _Feedback:_ y=-0.5+1 is correct because the slope of a perpendicular line is -1/
 
 ## Q043 (ID 0)
 
-* **Enabled:** True
-* **Type:** MULTIPLECHOICE
-* **Variation:** 15
 * **Learning-goal level:** 3.1
 
 ### Locale `nl`
@@ -1838,9 +1670,6 @@ _Feedback:_ The lines are the same. The equation 2y-6x+16=0 can be written as 2y
 
 ## Q044 (ID 0)
 
-* **Enabled:** True
-* **Type:** MULTIPLECHOICE
-* **Variation:** 16
 * **Learning-goal level:** 3.1
 
 ### Locale `nl`
@@ -1869,9 +1698,6 @@ _Feedback:_ They are all parallel because they have equal slope: 5
 
 ## Q045 (ID 0)
 
-* **Enabled:** True
-* **Type:** MULTIPLECHOICE
-* **Variation:** 29
 * **Learning-goal level:** 3.1
 
 ### Locale `nl`
@@ -1900,9 +1726,6 @@ _Feedback:_ 5y+3x=29 is correct
 
 ## Q048 (ID 0)
 
-* **Enabled:** True
-* **Type:** MULTIPLECHOICE
-* **Variation:** 19
 * **Learning-goal level:** 3.2
 
 ### Locale `nl`
@@ -1931,9 +1754,6 @@ _Feedback:_ 10 is correct
 
 ## Q049 (ID 0)
 
-* **Enabled:** True
-* **Type:** MULTIPLECHOICE
-* **Variation:** 19
 * **Learning-goal level:** 3.2
 
 ### Locale `nl`
@@ -1962,9 +1782,6 @@ _Feedback:_ 25 is correct. There are several strategies possible.
 
 ## Q012 (ID 0)
 
-* **Enabled:** True
-* **Type:** MULTIPLECHOICE
-* **Variation:** 9
 * **Learning-goal level:** 3.3
 
 ### Locale `nl`
@@ -1995,9 +1812,6 @@ _Feedback:_ y=3 is correct. For each x-value the correspondent y-value is 3. In 
 
 ## Q015 (ID 0)
 
-* **Enabled:** True
-* **Type:** MULTIPLECHOICE
-* **Variation:** 9
 * **Learning-goal level:** 3.3
 
 ### Locale `nl`
@@ -2028,9 +1842,6 @@ _Feedback:_ x= -2 is correct because the line is vertical and goes through the p
 
 ## Q046 (ID 0)
 
-* **Enabled:** True
-* **Type:** MULTIPLECHOICE
-* **Variation:** 21
 * **Learning-goal level:** 3.4
 
 ### Locale `nl`
@@ -2059,9 +1870,6 @@ _Feedback:_ Option -2 is correct
 
 ## Q047 (ID 0)
 
-* **Enabled:** True
-* **Type:** MULTIPLECHOICE
-* **Variation:** 21
 * **Learning-goal level:** 3.4
 
 ### Locale `nl`
@@ -2090,9 +1898,6 @@ _Feedback:_ Option -9 is correct
 
 ## Q008 (ID 0)
 
-* **Enabled:** True
-* **Type:** MULTIPLECHOICE
-* **Variation:** 6
 * **Learning-goal level:** 3.5
 
 ### Locale `nl`
@@ -2121,9 +1926,6 @@ _Feedback:_ y=9x+60 is correct because the rate of change is 9 and the y-interce
 
 ## Q011 (ID 0)
 
-* **Enabled:** True
-* **Type:** MULTIPLECHOICE
-* **Variation:** 32
 * **Learning-goal level:** 3.5
 
 ### Locale `nl`

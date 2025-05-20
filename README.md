@@ -1,5 +1,17 @@
 ﻿# Question export
 
+## Learning goal sections:
+
+G1: 1.1, 1.2, 1.3, 1.4
+
+G2: 2.1, 2.2, 2.3, 2.4, 2.5, 2.6
+
+G3: 2.7, 2.8
+
+G4: 3.1, 3.2, 3.3, 3.4
+
+G5: 3.5
+
 ## Q004 (ID 0)
 
 * **Learning-goal level:** 1.1
